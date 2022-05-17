@@ -5,6 +5,8 @@
 //NO MAGICS в строке 45
 public class MenuFilter
 
+[public class MenuFilter](./src/main/java/menu/MenuFilter.java).
+
 //DRY 
 public class Menu
 метод
